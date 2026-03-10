@@ -18,4 +18,4 @@ console.log(`O número 83 é primo = ${verficarNumeroPrimo(83)}`);
 console.log(`O número 100 é primo = ${verficarNumeroPrimo(100)}`);
 console.log(`O número 991 é primo = ${verficarNumeroPrimo(991)}`);
 console.log(`O número 104729 é primo = ${verficarNumeroPrimo(104729)}`);
-console.log(`O número 14348907 é primo  = ${verficarNumeroPrimo(14348907)}`);
+console.log(`O número 14348907 é primo = ${verficarNumeroPrimo(14348907)}`);
