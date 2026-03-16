@@ -1,5 +1,5 @@
 function transporMatriz(A) {
-
+    
     console.log("Matriz original:");
     for (let i = 0; i < 3; i++) {
         console.log(A[i][0], A[i][1]);
